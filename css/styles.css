@@ -1,0 +1,6 @@
+body {background-color: hsl(212, 45%, 89%); font-family: outfit;}
+h2 {color: hsl(218, 44%, 22%); font-size: 16px; font-weight: 700;}
+p {color: hsl(220, 15%, 55%); font-size: 11px; line-height: 13px; margin:auto 10px}
+.box {border-radius: 15px;  margin: 100px auto; background-color: hsl(0, 0%, 100%); width: 200px; height: 350px; text-align: center;
+padding: 0 10px;}
+.qr { border-radius: 10px; margin: 10px auto 0 auto; width: 200px;}
